@@ -1,0 +1,36 @@
+body{
+    background: black;
+    
+}
+
+
+.main {
+    margin-top: 100px;
+}
+
+.main-logo {
+    display: block;
+    margin-left:auto ;
+    margin-right:auto ;
+    width: 250px;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+input {
+   width:350px;
+   margin-right: 10px;
+   line-height: 24px;
+   padding: 10px 20px;
+   border: 1px solid lightgray;
+   border-radius: 25px;
+}
+
+button {
+  background: black;
+  border: none;
+}
